@@ -63,7 +63,7 @@ keywords: rescience c, rescience x, machine learning, iclr, reproducibility chal
 # You can get a DOI for your code from Zenodo,
 #   see https://guides.github.com/activities/citable-code/
 code:
-  - url: https://github.com/rescience-c/template
+  - url: https://github.com/koustuvsinha/iclr19_rc_editorial
   - doi: 
 
 # Date URL and DOI (optional if no data)
