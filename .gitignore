@@ -1,0 +1,10 @@
+*.bbl
+*.blg
+*.out
+*.bcf
+*.fls
+*.xml
+*.log
+*.fdb_latexmk
+*.pyc
+
